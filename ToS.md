@@ -13,17 +13,15 @@ General conditions regarding VeryOriginal bot are under this topic.
 
 ### \- Terms of Use
 
-##### 1\. The client must not resell the premium codes.
+##### 1\. Intentional command spam or attempts to crash the bot should not be made.
 
-##### 2\. Intentional command spam or attempts to crash the bot should not be made.
+##### 2\. VeryOriginal should not be used in Bot spam servers which cause command spam.
 
-##### 3\. VeryOriginal should not be used in Bot spam servers which cause command spam.
+##### 3\. VeryOriginal Team reserves the rights to prohibit any server or user from using VeryOriginal.
 
-##### 4\. VeryOriginal Team reserves the rights to prohibit any server or user from using VeryOriginal.
+##### 4\. The client is responsible for any violation caused by them.
 
-##### 5\. The client is responsible for any violation caused by them.
-
-##### 6\. We have the rights to update terms of service anytime with a notice in the support server.
+##### 5\. We have the rights to update terms of service anytime with a notice in the support server.
 
 ### \- Terms of Use (Global Chat)
 
